@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "encore run",
+    "start": "encore run",
     "test": "vitest"
   },
   "devDependencies": {
